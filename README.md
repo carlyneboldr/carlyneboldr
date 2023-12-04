@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL, R, and Python programming languages.
 - 💞️ I’m looking to collaborate on the creation of small projects on data research analysis in a clean and precise format.
 - 📫 How to reach me https://twitter.com/DecodeQt
-
+file:///Users/carlyne.jeanjacques17/Downloads/pinterest-a2ced%20(6).html
 <!---
 carlyneboldr/carlyneboldr is a ✨ particular ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
